@@ -1,0 +1,67 @@
+OS,TYPE,NAME,PRICE,RAM,STORAGE,HOME,BUSINESS,STUDENT,PROGRAMMING,BUSINESS FIELD,GAMING,CND,PRODUCTIVITY,ACCOUNTING,DSNA,MARKETING,PHOTO,ENTERTAINTMENT,UA,WEB SURFING
+macOS,Laptop,"Macbook Air 13""",999,8,256,y,n,y,y,y,n,y,y,y,y,y,y,y,y,y
+macOS,Laptop,"Macbook Air 13""",1249,8,512,y,n,y,y,y,n,y,y,y,y,y,y,y,y,y
+macOS,Laptop,"Macbook Air 13""",1199,16,256,y,n,y,y,y,n,y,y,y,y,y,y,y,y,y
+macOS,Laptop,"Macbook Air 13""",1399,16,512,y,n,y,y,y,n,y,y,y,y,y,y,y,y,y
+macOS,Laptop,"Macbook Pro 13""",1299,16,256,y,n,y,y,y,n,y,y,y,y,y,y,y,y,y
+macOS,Laptop,"Macbook Pro 13""",1499,16,512,y,y,y,y,y,n,y,y,y,y,y,y,y,y,y
+macOS,Laptop,"Macbook Pro 14""",1999,16,512,y,y,n,y,y,n,y,y,y,y,y,y,y,y,y
+macOS,Laptop,"Macbook Pro 14""",2499,16,1024,n,y,n,y,y,n,y,y,y,y,y,y,y,y,y
+macOS,Laptop,"Macbook Pro 16""",2499,16,512,n,y,n,y,y,n,y,y,y,y,y,y,y,y,y
+macOS,Laptop,"Macbook Pro 16""",2699,16,1024,n,y,n,y,y,n,y,y,y,y,y,y,y,y,y
+macOS,Laptop,"Macbook Pro 16""",3499,32,1024,n,y,n,y,y,n,y,y,y,y,y,y,y,y,y
+macOS,Desktop,"iMac 24""",1299,8,256,y,n,y,y,y,n,y,y,y,y,y,y,y,y,y
+macOS,Desktop,"iMac 24""",1499,8,512,y,y,y,y,y,n,y,y,y,y,y,y,y,y,y
+macOS,Desktop,Mac Mini,699,8,256,y,n,y,y,y,n,y,y,y,y,y,y,y,y,y
+macOS,Desktop,Mac Mini,899,8,512,y,y,y,y,y,n,y,y,y,y,y,y,y,y,y
+macOS,Desktop,Mac Studio,1999,32,512,y,y,n,y,y,n,y,y,y,y,y,y,y,y,y
+macOS,Desktop,Mac Studio,3999,64,1024,n,y,n,y,y,n,y,y,y,y,y,y,y,y,y
+macOS,Desktop,Mac Pro Tower,5999,32,512,n,y,n,y,y,n,y,y,y,y,y,y,y,y,y
+macOS,Desktop,Mac Pro Rack,6499,32,512,n,y,n,y,y,n,y,y,y,y,y,y,y,y,y
+windows,Laptop,Dell XPS 13 Touch laptop,849.99,8,256,y,n,y,y,n,n,n,y,y,n,y,n,y,y,y
+windows,Laptop,Dell XPS 13 Touch laptop,1149.99,16,512,y,y,n,y,y,y,y,y,y,y,y,y,y,y,y
+windows,Laptop,New XPS 13 Laptop,1219.99,8,256,y,y,n,y,y,n,n,y,y,n,y,n,y,y,y
+windows,Laptop,New XPS 13 Laptop,1519.99,16,512,n,y,n,y,y,y,y,y,y,y,y,y,y,y,y
+windows,Laptop,Dell XPS 15 Laptop,1419.99,8,512,n,y,n,y,y,n,n,y,y,y,y,n,y,y,y
+windows,Laptop,Dell XPS 15 Laptop,1819.99,16,512,n,y,n,y,y,y,y,y,y,y,y,y,y,y,y
+windows,Laptop,Dell XPS 17 Laptop,1849.99,8,512,n,y,n,y,y,n,n,y,y,y,y,n,y,y,y
+windows,Laptop, Dell Inspiron 15,249.99,4,128,n,n,y,n,n,n,n,y,y,n,y,n,y,y,y
+windows,Laptop,Dell Inspiron 15,349.99,8,128,n,n,y,y,n,n,n,y,y,n,y,n,y,y,y
+windows,Laptop,Dell Inspiron 14 2-in-1,549.99,8,256,n,n,y,y,n,n,n,y,y,n,y,n,y,y,y
+windows,Laptop,Dell Inspiron 14,499.99,8,256,n,n,y,y,n,n,n,y,y,n,y,n,y,y,y
+windows,Laptop,Alien m15 R5 Ryzen Gaming Laptop,1099.99,16,256,y,y,n,y,y,y,y,y,y,n,y,y,y,y,y
+windows,Laptop,Alien m16 R5 Ryzen Gaming Laptop,1449.99,16,512,n,y,n,y,y,y,y,y,y,y,y,y,y,y,y
+windows,Laptop,Alienware x14 Gaming Laptop,1699.99,16,512,n,y,n,y,y,y,y,y,y,y,y,y,y,y,y
+windows,Laptop,Alienware x15 Gaming Laptop,1899.99,16,256,n,y,n,y,n,y,y,y,y,n,y,y,y,y,y
+windows,Laptop,Dell Latitude 3520,809.99,8,256,y,n,y,y,n,n,n,y,y,n,y,n,y,y,y
+windows,Laptop,Dell Latitude 3520,979.99,8,256,y,n,y,y,y,n,n,y,y,n,y,n,y,y,y
+windows,Laptop,Dell Latitude 5520,1749.99,16,512,n,y,n,y,y,y,y,y,y,y,y,y,y,y,y
+windows,Laptop,Dell Latitude 5520,1619.99,32,256,n,y,n,y,n,y,y,y,y,n,y,y,y,y,y
+windows,Laptop,HP Envy 15,799.99,16,256,y,n,n,y,y,y,y,y,y,n,y,y,y,y,y
+windows,Laptop,HP Envy 15,1299.99,16,512,n,y,n,y,n,y,y,y,y,y,y,y,y,y,y
+windows,Laptop,HP Envy 13,699.99,8,256,y,n,y,y,n,n,n,y,y,n,y,n,y,y,y
+windows,Laptop,HP Envy 13,549.99,8,256,y,n,y,y,n,n,n,y,y,n,y,n,y,y,y
+windows,Laptop,HP Pavillion 13,449.99,8,256,y,n,y,y,n,n,n,y,y,n,y,n,y,y,y
+windows,Laptop,HP Pavillion 13,399.99,4,256,n,n,y,n,n,n,n,y,y,n,y,n,y,y,y
+windows,Laptop,HP Pavillion 15,449.99,8,256,y,n,y,y,n,n,n,y,y,n,y,n,y,y,y
+windows,Laptop,HP Pavillion 15,719.99,8,512,y,n,y,y,y,n,n,y,y,y,y,n,y,y,y
+windows,Laptop,HP Spectre x360 15,1319.99,12,512,n,y,n,y,y,y,y,y,y,y,y,y,y,y,y
+windows,Laptop,HP Spectre x360 14,1599.99,16,512,n,y,n,y,n,y,y,y,y,y,y,y,y,y,y
+windows,Laptop,Lenovo Yoga 7i 13,679.99,8,256,y,n,n,y,n,n,n,y,y,n,y,n,y,y,y
+windows,Laptop,Lenovo Yoga 7i 15,749.99,12,256,y,n,n,y,n,y,y,y,y,n,y,y,y,y,y
+windows,Laptop,Lenovo Yoga 9i 13,989.99,8,512,y,y,n,y,y,n,n,y,y,y,y,n,y,y,y
+windows,Laptop,Lenovo Yoga 9i 15,1399.99,12,512,y,y,n,y,y,y,y,y,y,y,y,y,y,y,y
+windows,Laptop,Lenovo ThinkPad X1 Carbon,1799.99,32,512,n,n,n,y,n,y,y,y,y,y,y,y,y,y,y
+windows,Laptop,Lenovo Thinkbook 15,929.99,8,256,y,y,n,y,y,n,n,y,y,n,y,n,y,y,y
+windows,Laptop,Lenovo Legion 15,1299.99,12,512,y,y,n,y,y,y,y,y,y,y,y,y,y,y,y
+windows,Desktop,Lenovo Idea Centre p350,889.99,32,2000,y,y,n,y,y,y,y,y,y,y,y,y,y,y,y
+windows,Desktop,Lenovo ThinkStation P620,3020.99,64,2000,n,y,n,y,y,y,y,y,y,y,y,y,y,y,y
+windows,Desktop,HP Omen GT22,1799.99,64,2000,n,y,n,y,y,y,y,y,y,y,y,y,y,y,y
+windows,Desktop,HP Victus GT15,1399.99,32,1000,n,y,n,y,n,y,y,y,y,y,y,y,y,y,y
+windows,Desktop,Dell Vostro,549.99,12,512,y,n,y,y,y,y,y,y,y,y,y,y,y,y,y
+windows,Desktop,Dell OptiPlex,1299.99,32,512,y,y,n,y,n,y,y,y,y,y,y,y,y,y,y
+ChromeOS,Laptop,Acer ChromeBook,879,8,256,y,n,y,n,n,n,n,y,y,n,n,n,y,y,y
+ChromeOS,Laptop,Samsung Galaxy ChromeBook,549,4,64,y,n,y,n,n,n,n,y,y,n,n,n,y,y,y
+ChromeOS,Laptop,Lenovo ThinkPad Yoga ChromeBook,349,8,256,y,n,y,n,n,n,n,y,y,n,n,n,y,y,y
+ChromeOS,Laptop,Dell Latitude ChromeBook,1289,8,128,y,n,y,n,n,n,n,y,y,n,n,n,y,y,y
+ChromeOS,Laptop,HP Elite ChromeBook,1499,16,256,y,n,y,n,n,n,n,y,y,n,n,y,y,y,y

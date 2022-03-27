@@ -1,0 +1,7 @@
+Model                      Price (in $)    RAM        SSD Storage
+
+Macbook Air 13"           $ 1249            8          512       
+Macbook Air 13"           $ 1199            16         256       
+Macbook Air 13"           $ 1399            16         512       
+Macbook Pro 13"           $ 1299            16         256       
+Macbook Pro 13"           $ 1499            16         512       
